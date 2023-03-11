@@ -20,4 +20,7 @@ python3 -m pip install -r requirements.txt
 ### Make sure to use the bert-experiments kernel.
 Using bert-experiments kernel & using the bert-experiments virtual environment.
 
+## Step 5. Try it out.
+### To test your code, compare how your model does with mine! Find out more at http://botswine.com/winebot.html
+
 #### Questions, comments, concerns? Shoot me an email at kb3.kay@gmail.com! 
