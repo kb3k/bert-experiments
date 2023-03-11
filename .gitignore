@@ -1,3 +1,7 @@
+# noisy Model output files
+*.txt
+*/models/*
+
 # on a Mac
 .DS_Store
 
